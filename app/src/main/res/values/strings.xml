@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoadingAnimation</string>
+    <string name="loading">玩命加载中...</string>
+</resources>
